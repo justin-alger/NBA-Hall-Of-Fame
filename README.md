@@ -1,9 +1,10 @@
 # Predicting the NBA Hall of Famers - With Data
 A machine learning sports analytics project using NBA player data and Hall of Fame inductions to predict future NBA Hall of Famers.
-## Overview
+## 🎯 Overview
 This project explores whether machine learning can predict which NBA players will make the Hall of Fame, based on their career stats, advanced metrics, and efficiency measures.
-We trained and validated models on retired eligible players (≥5 years since final season), engineered new career-level features, and used Random Forests and Decision Trees to predict Hall of Fame probability for active and recently retired players.
-🎯 The best model achieved an F1 score of 0.69 through out-of-fold validation.
+We trained and validated models on retired eligible players (≥3 years since final season), engineered new career-level features, and used Random Forests and Decision Trees to predict Hall of Fame probability for active and recently retired players. 
+
+The best model achieved an F1 score of 0.69 through out-of-fold validation.
 ## 🧩 Project Goals
 - Predict which NBA players are likely to be inducted into the Hall of Fame
 - Identify the most influential factors driving induction probability
